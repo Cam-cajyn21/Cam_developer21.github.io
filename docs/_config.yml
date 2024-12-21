@@ -1,0 +1,5 @@
+title: Mi Blog 1 con Jekyll 
+description: Este es mi primer sitio mejorado con Jekyll.
+baseurl: "/"
+url: "https://cam-cajyn21.github.io/Cam_developer21.github.io"
+theme: minima
